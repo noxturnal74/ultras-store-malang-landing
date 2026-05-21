@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Ultras Store">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#06120d"/>
+      <stop offset="0.55" stop-color="#009b63"/>
+      <stop offset="1" stop-color="#dfffe8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="20%" r="65%">
+      <stop offset="0" stop-color="#f8fff8" stop-opacity=".9"/>
+      <stop offset=".45" stop-color="#dfffe8" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#06120d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#glow)"/>
+  <g fill="none" stroke="#f8fff8" stroke-opacity=".24" stroke-width="2">
+    <path d="M120 210 H1480 M120 430 H1480 M120 650 H1480 M120 870 H1480"/>
+    <path d="M280 80 V920 M560 80 V920 M840 80 V920 M1120 80 V920 M1400 80 V920"/>
+  </g>
+  <circle cx="1260" cy="240" r="170" fill="#f8fff8" opacity=".16"/>
+  <circle cx="1260" cy="240" r="92" fill="#06120d" opacity=".45"/>
+  <rect x="120" y="590" width="760" height="190" rx="28" fill="#06120d" opacity=".62"/>
+  <text x="160" y="675" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" fill="#f8fff8">Ultras Store</text>
+  <text x="164" y="735" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#dfffe8">Local apparel and supporter culture</text>
+  <text x="128" y="146" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#f8fff8" opacity=".74">HERO</text>
+</svg>
