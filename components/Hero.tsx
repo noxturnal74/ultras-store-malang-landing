@@ -1,13 +1,11 @@
 import { brandConfig } from "../brand.config";
-import { Logo } from "./Logo";
 
 export function Hero() {
   return (
-    <section className="hero">
-      <Logo />
-      <p>{brandConfig.hero.eyebrow}</p>
-      <h1>{brandConfig.hero.title}</h1>
-      <a href={brandConfig.publicLink}>{brandConfig.hero.cta}</a>
+    <section className={`hero theme-${brandConfig.layout}`}>
+      <p>{brandConfig.dna.visual}</p>
+      <h1>{brandConfig.dna.business}</h1>
+      <a href={brandConfig.publicLink}>Open official profile</a>
     </section>
   );
 }

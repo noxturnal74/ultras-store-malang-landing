@@ -1,9 +1,9 @@
 export const metadata = {
-  title: "Ultras Store | Retail fashion and supporter merchandise",
-  description: "An editorial retail page for product drops, supporter merchandise, and store visits. Built for ads that need a sharper destination than a generic storefront.",
+  title: "Ultras Store | Supporter retail and streetwear",
+  description: "Turn supporter identity into shoppable drops, store visits, and shipping inquiries.",
   openGraph: {
     title: "Ultras Store",
-    description: "An editorial retail page for product drops, supporter merchandise, and store visits. Built for ads that need a sharper destination than a generic storefront.",
+    description: "Turn supporter identity into shoppable drops, store visits, and shipping inquiries.",
     images: ["./assets/hero.svg"],
   },
 };

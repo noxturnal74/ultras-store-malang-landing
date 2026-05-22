@@ -1,39 +1,37 @@
 # Ultras Store
 
-Standalone landing page for Retail fashion and supporter merchandise.
+Production-grade single-page concept for Supporter retail and streetwear.
 
-## Design concept
+## Visual philosophy
 
-Magazine / Editorial retail landing
+Magazine cover system with oversized type, editorial product rows, and supporter-culture rhythm.
 
-## Conversion goal
+## Business logic
 
-Turn supporter merchandise into a visual drop story with store-visit, delivery, and marketplace paths.
+Turn supporter identity into shoppable drops, store visits, and shipping inquiries.
 
-## Deployment notes
+## Storytelling structure
 
-- Static site entry: `index.html`
-- Local assets: `assets/`
-- Asset paths use relative `./assets/...`
-- `vercel.json` keeps `outputDirectory` at `.`
-- Logo fallback is handled in `script.js`
-- Hero fallback is a CSS gradient behind `./assets/hero.svg`
-- Parallax uses `requestAnimationFrame` in `script.js`
+Visitor sees the drop cover, checks stock/size, reads material notes, explores lookbook, then routes to store or WhatsApp.
 
-## Brand-specific sections
+## Motion system
 
-- Product Drops: Launch limited pieces with a campaign-ready layout.
-- Supporter Merchandise: Merchandise framed around identity, not stock keeping.
-- Lookbook: Visual-heavy blocks for outfits, campaign sets, and bundles.
+Slow page-turn image reveals, ticker-like drop details, precise hover underline.
 
-## Public research injected
+## Conversion strategy
 
-- Business listing places Ultras Store on Trunojoyo near the Klojen retail route.
-- Phone, opening hours, and shipping availability make it suitable for direct response ads.
-- Store-visit coverage describes a black storefront identity and football-supporter merchandise positioning.
+Primary route is drop inquiry; secondary route is store visit and shipping order.
+
+## Operational content included
+
+- Hours: Daily 10:00-21:30, shipping available
+- Contact: 0819-1108-1987 / 0857-5576-1940
+- Pricing/offer cards: Graphic Tee from Rp129k, Match Scarf from Rp99k, Outer Drop from Rp279k
+- Workflow: Choose drop -> Check size -> Ask stock via WhatsApp -> Confirm delivery or pickup -> Share fit photo
+- Policies: Stock is limited and confirmed by admin. / Exchange depends on size availability. / Shipping fee follows destination.
 
 ## Source links
 
 - Ultras Store listing: https://www.semuabis.com/ultras-store-malang-0819-1108-1987
-- Ultras Malang store visit: https://www.ceritajersey.com/2021/06/store-visit-ultras-malang.html
+- Store visit article: https://www.ceritajersey.com/2021/06/store-visit-ultras-malang.html
 - Ultras Instagram: https://www.instagram.com/ultrasmlg
